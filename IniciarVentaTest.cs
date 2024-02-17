@@ -1,3 +1,6 @@
+using NUnit.Framework;
+using System;
+using System.Collections.Generic;
 [TestClass]
 public class InicioVentaTest
 {
